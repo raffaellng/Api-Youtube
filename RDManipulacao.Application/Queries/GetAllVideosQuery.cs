@@ -1,7 +1,7 @@
-﻿using MediatR;
-using RDManipulacao.Domain.Entities;
+﻿//using MediatR;
+//using RDManipulacao.Domain.Entities;
 
-namespace RDManipulacao.Application.Queries
-{
-    public record GetAllVideosQuery() : IRequest<IEnumerable<Video>>;
-}
+//namespace RDManipulacao.Application.Queries
+//{
+//    public record GetAllVideosQuery() : IRequest<IEnumerable<Video>>;
+//}

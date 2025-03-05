@@ -2,6 +2,6 @@
 
 namespace RDManipulacao.Application.Commands
 {
-    public record CreateVideoCommand(string Title, string Description, string ChannelName, TimeSpan Duration, DateTime PublishedAt) : IRequest<int>;
+    public record CreateVideoCommand(string Titulo, string Descricao, string Autor, TimeSpan Duracao, DateTime DataPublicacao) : IRequest<int>;
 
 }

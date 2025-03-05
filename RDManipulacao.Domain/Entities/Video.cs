@@ -1,13 +1,27 @@
-﻿namespace RDManipulacao.Domain.Entities
+﻿using System.Text.Json.Serialization;
+
+namespace RDManipulacao.Domain.Entities
 {
     public class Video
     {
         public int Id { get; set; }
-        public string Title { get; set; }
-        public string Description { get; set; }
-        public string ChannelName { get; set; }
-        public TimeSpan Duration { get; set; }
-        public DateTime PublishedAt { get; set; }
+
+        [JsonPropertyName("titulo")]
+        public string? Title { get; set; }
+
+        [JsonPropertyName("duracao")]
+        public TimeSpan? Duration { get; set; }
+
+        [JsonPropertyName("dataPublicacao")]
+        public DateTime? PublishedAt { get; set; }
+
+        [JsonPropertyName("descricao")]
+        public string? Description { get; set; }
+
+        [JsonPropertyName("autor")]
+        public string? ChannelName { get; set; }
+
+        [JsonPropertyName("excluido")]
         public bool IsDeleted { get; set; }
 
         public Video() { }

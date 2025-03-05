@@ -18,7 +18,7 @@ namespace RDManipulacao.Application.Handlers
             var video = await _videoRepository.GetByIdAsync(request.Id);
             if (video == null) return false;
 
-            video.Update(request.Title, request.Description, request.ChannelName, request.Duration, request.PublishedAt);
+            video.Update(request.Titulo, request.Descricao, request.Autor, request.Duracao, request.DataPublicacao);
             await _videoRepository.UpdateAsync(video);
             return true;
         }

@@ -18,11 +18,11 @@ namespace RDManipulacao.Application.Handlers
         {
             var video = new Video
             {
-                Title = request.Title,
-                Description = request.Description,
-                ChannelName = request.ChannelName,
-                Duration = request.Duration,
-                PublishedAt = request.PublishedAt,
+                Title = request.Titulo,
+                Description = request.Descricao,
+                ChannelName = request.Autor,
+                Duration = request.Duracao,
+                PublishedAt = request.DataPublicacao,
                 IsDeleted = false
             };
 
