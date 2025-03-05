@@ -122,8 +122,7 @@
               "RelativeToolTip": "RDManipulacao.Application\\Handlers\\CreateVideoCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:55:10.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:55:10.141Z"
             },
             {
               "$type": "Document",
@@ -135,8 +134,7 @@
               "RelativeToolTip": "RDManipulacao.Application\\DTOs\\VideoDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T15:41:09.154Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T15:41:09.154Z"
             },
             {
               "$type": "Document",
@@ -148,8 +146,7 @@
               "RelativeToolTip": "RDManipulacao.Application\\Commands\\UpdateVideoCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:54:39.831Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:54:39.831Z"
             },
             {
               "$type": "Document",
@@ -161,8 +158,7 @@
               "RelativeToolTip": "RDManipulacao.Application\\Commands\\DeleteVideoCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:54:45.867Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:54:45.867Z"
             },
             {
               "$type": "Document",
@@ -174,8 +170,7 @@
               "RelativeToolTip": "RDManipulacao.Application\\Commands\\CreateVideoCommand.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T20:46:20.248Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T20:46:20.248Z"
             },
             {
               "$type": "Document",
@@ -187,8 +182,7 @@
               "RelativeToolTip": "RDManipulacao.Api\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T15:46:01.595Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T15:46:01.595Z"
             },
             {
               "$type": "Document",
@@ -213,8 +207,7 @@
               "RelativeToolTip": "RDManipulacao.Application\\Handlers\\DeleteVideoCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:55:20.298Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:55:20.298Z"
             },
             {
               "$type": "Document",
@@ -226,8 +219,7 @@
               "RelativeToolTip": "RDManipulacao.Application\\Handlers\\GetAllVideosQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:55:29.6Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:55:29.6Z"
             },
             {
               "$type": "Document",
@@ -239,8 +231,7 @@
               "RelativeToolTip": "RDManipulacao.Application\\Handlers\\GetVideoByIdQueryHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:55:25.025Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:55:25.025Z"
             },
             {
               "$type": "Document",
@@ -252,8 +243,7 @@
               "RelativeToolTip": "RDManipulacao.Application\\Handlers\\UpdateVideoCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:55:15.213Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:55:15.213Z"
             },
             {
               "$type": "Document",
@@ -265,8 +255,7 @@
               "RelativeToolTip": "RDManipulacao.Application\\Mappings\\MappingProfile.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:55:36.402Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:55:36.402Z"
             },
             {
               "$type": "Document",
@@ -278,8 +267,7 @@
               "RelativeToolTip": "RDManipulacao.Application\\Queries\\GetAllVideosQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:55:00.717Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:55:00.717Z"
             },
             {
               "$type": "Document",
@@ -291,8 +279,7 @@
               "RelativeToolTip": "RDManipulacao.Application\\Queries\\GetVideoByIdQuery.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:54:54.009Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:54:54.009Z"
             },
             {
               "$type": "Document",
@@ -304,8 +291,7 @@
               "RelativeToolTip": "RDManipulacao.Domain\\Entities\\Video.cs",
               "ViewState": "AgIAABUAAAAAAAAAAAAkwBsAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T14:55:20.1Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T14:55:20.1Z"
             },
             {
               "$type": "Document",
@@ -317,8 +303,7 @@
               "RelativeToolTip": "RDManipulacao.Domain\\Interfaces\\IVideoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T20:59:55.301Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T20:59:55.301Z"
             },
             {
               "$type": "Document",
@@ -330,8 +315,7 @@
               "RelativeToolTip": "RDManipulacao.Infrastructure\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T15:43:31.684Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T15:43:31.684Z"
             },
             {
               "$type": "Document",
@@ -343,8 +327,7 @@
               "RelativeToolTip": "RDManipulacao.Infrastructure\\Repositories\\VideoRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T20:52:48.496Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T20:52:48.496Z"
             },
             {
               "$type": "Document",
@@ -356,21 +339,19 @@
               "RelativeToolTip": "RDManipulacao.Api\\Controllers\\VideoController.cs",
               "ViewState": "AgIAAAcAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T04:10:30.82Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T04:10:30.82Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 19,
-              "Title": "RDManipulacao.Application",
+              "Title": "RDManipulacao.Application.csproj",
               "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\RDManipulacao.Application.csproj",
               "RelativeDocumentMoniker": "RDManipulacao.Application\\RDManipulacao.Application.csproj",
               "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\RDManipulacao.Application.csproj",
               "RelativeToolTip": "RDManipulacao.Application\\RDManipulacao.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T03:53:57.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:53:57.294Z"
             },
             {
               "$type": "Document",
@@ -382,34 +363,31 @@
               "RelativeToolTip": "RDManipulacao.Api\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-05T03:30:29.757Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:30:29.757Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "RDManipulacao.Infrastructure",
+              "Title": "RDManipulacao.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Infrastructure\\RDManipulacao.Infrastructure.csproj",
               "RelativeDocumentMoniker": "RDManipulacao.Infrastructure\\RDManipulacao.Infrastructure.csproj",
               "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Infrastructure\\RDManipulacao.Infrastructure.csproj",
               "RelativeToolTip": "RDManipulacao.Infrastructure\\RDManipulacao.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-04T20:24:30.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T20:24:30.68Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 22,
-              "Title": "RDManipulacao.Domain",
+              "Title": "RDManipulacao.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Domain\\RDManipulacao.Domain.csproj",
               "RelativeDocumentMoniker": "RDManipulacao.Domain\\RDManipulacao.Domain.csproj",
               "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Domain\\RDManipulacao.Domain.csproj",
               "RelativeToolTip": "RDManipulacao.Domain\\RDManipulacao.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-03T14:55:04.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T14:55:04.326Z"
             },
             {
               "$type": "Document",
@@ -420,8 +398,7 @@
               "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\ConsoleApp\\ConsoleApp.csproj",
               "RelativeToolTip": "ConsoleApp\\ConsoleApp.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-02-25T14:15:03.986Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-02-25T14:15:03.986Z"
             }
           ]
         }

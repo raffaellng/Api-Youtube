@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "ConsoleApp": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "YOUTUBE_API_KEY": "AIzaSyBXqqfwhrUMd4tV1yu_CF1hb2dCFhJpsHI"
+      }
+    }
+  }
+}
