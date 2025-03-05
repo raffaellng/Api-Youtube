@@ -146,8 +146,7 @@
               "RelativeToolTip": "RDManipulacao.Application\\Handlers\\CreateVideoCommandHandler.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:55:10.141Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:55:10.141Z"
             },
             {
               "$type": "Document",
@@ -205,7 +204,7 @@
               "RelativeDocumentMoniker": "RDManipulacao.Api\\Controllers\\VideoController.cs",
               "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Api\\Controllers\\VideoController.cs",
               "RelativeToolTip": "RDManipulacao.Api\\Controllers\\VideoController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAAB4AAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-05T04:10:30.82Z",
               "EditorCaption": ""
@@ -364,8 +363,7 @@
               "RelativeToolTip": "RDManipulacao.Application\\RDManipulacao.Application.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T03:53:57.294Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-05T03:53:57.294Z"
             },
             {
               "$type": "Document",
@@ -389,8 +387,7 @@
               "RelativeToolTip": "RDManipulacao.Infrastructure\\RDManipulacao.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-04T20:24:30.68Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-04T20:24:30.68Z"
             },
             {
               "$type": "Document",
@@ -402,8 +399,7 @@
               "RelativeToolTip": "RDManipulacao.Domain\\RDManipulacao.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-03T14:55:04.326Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-03-03T14:55:04.326Z"
             }
           ]
         }
