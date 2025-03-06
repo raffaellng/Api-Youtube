@@ -3,90 +3,87 @@
   "WorkspaceRootPath": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6775E35B-F3CC-4AB3-AAAC-CBABE2699145}|RDManipulacao.Api\\RDManipulacao.Api.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.api\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6775E35B-F3CC-4AB3-AAAC-CBABE2699145}|RDManipulacao.Api\\RDManipulacao.Api.csproj|solutionrelative:rdmanipulacao.api\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\service\\youtubeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\service\\youtubeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\Sdk\\Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{FA1C9884-6691-4448-B601-731052FEA7FF}|RDManipulacao.Domain\\RDManipulacao.Domain.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.domain\\validation\\domainvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FA1C9884-6691-4448-B601-731052FEA7FF}|RDManipulacao.Domain\\RDManipulacao.Domain.csproj|solutionrelative:rdmanipulacao.domain\\validation\\domainvalidation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\Sdk\\Sdk.props||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\handlers\\createvideocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\handlers\\createvideocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6775E35B-F3CC-4AB3-AAAC-CBABE2699145}|RDManipulacao.Api\\RDManipulacao.Api.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6775E35B-F3CC-4AB3-AAAC-CBABE2699145}|RDManipulacao.Api\\RDManipulacao.Api.csproj|solutionrelative:rdmanipulacao.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\commands\\createvideocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\commands\\createvideocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\commands\\deletevideocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\commands\\deletevideocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\commands\\updatevideocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\commands\\updatevideocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\dtos\\videodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\dtos\\videodto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\handlers\\deletevideocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\handlers\\deletevideocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\handlers\\getallvideosqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\handlers\\getallvideosqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\handlers\\getvideobyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\handlers\\getvideobyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\handlers\\updatevideocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\handlers\\updatevideocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\mappings\\mappingprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\queries\\getallvideosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\queries\\getallvideosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\queries\\getvideobyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\queries\\getvideobyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\video\\getvideo\\getvideobyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\video\\getvideo\\getvideobyidquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{FA1C9884-6691-4448-B601-731052FEA7FF}|RDManipulacao.Domain\\RDManipulacao.Domain.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.domain\\entities\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{FA1C9884-6691-4448-B601-731052FEA7FF}|RDManipulacao.Domain\\RDManipulacao.Domain.csproj|solutionrelative:rdmanipulacao.domain\\entities\\video.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{FA1C9884-6691-4448-B601-731052FEA7FF}|RDManipulacao.Domain\\RDManipulacao.Domain.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.domain\\interfaces\\ivideorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{FA1C9884-6691-4448-B601-731052FEA7FF}|RDManipulacao.Domain\\RDManipulacao.Domain.csproj|solutionrelative:rdmanipulacao.domain\\interfaces\\ivideorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6775E35B-F3CC-4AB3-AAAC-CBABE2699145}|RDManipulacao.Api\\RDManipulacao.Api.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.api\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6775E35B-F3CC-4AB3-AAAC-CBABE2699145}|RDManipulacao.Api\\RDManipulacao.Api.csproj|solutionrelative:rdmanipulacao.api\\controllers\\videocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{929A84C2-F5CA-466B-AD80-6D306919A846}|RDManipulacao.Infrastructure\\RDManipulacao.Infrastructure.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{929A84C2-F5CA-466B-AD80-6D306919A846}|RDManipulacao.Infrastructure\\RDManipulacao.Infrastructure.csproj|solutionrelative:rdmanipulacao.infrastructure\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\service\\iyoutubeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\service\\iyoutubeapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\service\\insertvideos\\fetchandinsertvideoscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\service\\insertvideos\\fetchandinsertvideoscommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\service\\insertvideos\\fetchandinsertvideoscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\service\\insertvideos\\fetchandinsertvideoscommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\video\\createvideo\\createvideocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\video\\createvideo\\createvideocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\video\\createvideo\\createvideocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\video\\createvideo\\createvideocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\video\\updatevideo\\updatevideocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\video\\updatevideo\\updatevideocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\video\\updatevideo\\updatevideocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\video\\updatevideo\\updatevideocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\video\\deletevideo\\deletevideocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\video\\deletevideo\\deletevideocommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\video\\getvideo\\getfilteredvideosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\video\\getvideo\\getfilteredvideosquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{929A84C2-F5CA-466B-AD80-6D306919A846}|RDManipulacao.Infrastructure\\RDManipulacao.Infrastructure.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.infrastructure\\repositories\\videorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{929A84C2-F5CA-466B-AD80-6D306919A846}|RDManipulacao.Infrastructure\\RDManipulacao.Infrastructure.csproj|solutionrelative:rdmanipulacao.infrastructure\\repositories\\videorepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\rdmanipulacao.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\rdmanipulacao.application.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\video\\getvideo\\getfilteredvideosqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\video\\getvideo\\getfilteredvideosqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\video\\getvideo\\getvideobyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\video\\getvideo\\getvideobyidqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.application\\video\\deletevideo\\deletevideocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4DB258C-3A45-4F50-A1EF-9BBEE686B9A6}|RDManipulacao.Application\\RDManipulacao.Application.csproj|solutionrelative:rdmanipulacao.application\\video\\deletevideo\\deletevideocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6775E35B-F3CC-4AB3-AAAC-CBABE2699145}|RDManipulacao.Api\\RDManipulacao.Api.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6775E35B-F3CC-4AB3-AAAC-CBABE2699145}|RDManipulacao.Api\\RDManipulacao.Api.csproj|solutionrelative:rdmanipulacao.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\Sdk\\Sdk.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{929A84C2-F5CA-466B-AD80-6D306919A846}|RDManipulacao.Infrastructure\\RDManipulacao.Infrastructure.csproj|c:\\users\\raffaell negreiros g\\source\\repos\\rdmanipulacao\\rdmanipulacao.infrastructure\\rdmanipulacao.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -104,15 +101,278 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VideoController.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Api\\Controllers\\VideoController.cs",
+              "RelativeDocumentMoniker": "RDManipulacao.Api\\Controllers\\VideoController.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Api\\Controllers\\VideoController.cs",
+              "RelativeToolTip": "RDManipulacao.Api\\Controllers\\VideoController.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAewDYAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T04:10:30.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "RDManipulacao.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "RDManipulacao.Infrastructure\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T15:43:31.684Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FetchAndInsertVideosCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Service\\InsertVideos\\FetchAndInsertVideosCommandHandler.cs",
+              "RelativeDocumentMoniker": "RDManipulacao.Application\\Service\\InsertVideos\\FetchAndInsertVideosCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Service\\InsertVideos\\FetchAndInsertVideosCommandHandler.cs",
+              "RelativeToolTip": "RDManipulacao.Application\\Service\\InsertVideos\\FetchAndInsertVideosCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:57:44.382Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IYouTubeApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Service\\IYouTubeApiService.cs",
+              "RelativeDocumentMoniker": "RDManipulacao.Application\\Service\\IYouTubeApiService.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Service\\IYouTubeApiService.cs",
+              "RelativeToolTip": "RDManipulacao.Application\\Service\\IYouTubeApiService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T00:45:36.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "YouTubeApiService.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Service\\YouTubeApiService.cs",
+              "RelativeDocumentMoniker": "RDManipulacao.Application\\Service\\YouTubeApiService.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Service\\YouTubeApiService.cs",
+              "RelativeToolTip": "RDManipulacao.Application\\Service\\YouTubeApiService.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwB8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T05:51:34.714Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GetVideoByIdQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Video\\GetVideo\\GetVideoByIdQuery.cs",
+              "RelativeDocumentMoniker": "RDManipulacao.Application\\Video\\GetVideo\\GetVideoByIdQuery.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Video\\GetVideo\\GetVideoByIdQuery.cs",
+              "RelativeToolTip": "RDManipulacao.Application\\Video\\GetVideo\\GetVideoByIdQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:48:40.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Video.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Domain\\Entities\\Video.cs",
+              "RelativeDocumentMoniker": "RDManipulacao.Domain\\Entities\\Video.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Domain\\Entities\\Video.cs",
+              "RelativeToolTip": "RDManipulacao.Domain\\Entities\\Video.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwDAAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-03T14:55:20.1Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "DomainValidation.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Domain\\Validation\\DomainValidation.cs",
+              "RelativeDocumentMoniker": "RDManipulacao.Domain\\Validation\\DomainValidation.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Domain\\Validation\\DomainValidation.cs",
+              "RelativeToolTip": "RDManipulacao.Domain\\Validation\\DomainValidation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T14:04:36.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FetchAndInsertVideosCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Service\\InsertVideos\\FetchAndInsertVideosCommand.cs",
+              "RelativeDocumentMoniker": "RDManipulacao.Application\\Service\\InsertVideos\\FetchAndInsertVideosCommand.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Service\\InsertVideos\\FetchAndInsertVideosCommand.cs",
+              "RelativeToolTip": "RDManipulacao.Application\\Service\\InsertVideos\\FetchAndInsertVideosCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:35:08.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UpdateVideoCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Video\\UpdateVideo\\UpdateVideoCommandHandler.cs",
+              "RelativeDocumentMoniker": "RDManipulacao.Application\\Video\\UpdateVideo\\UpdateVideoCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Video\\UpdateVideo\\UpdateVideoCommandHandler.cs",
+              "RelativeToolTip": "RDManipulacao.Application\\Video\\UpdateVideo\\UpdateVideoCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T03:55:15.213Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CreateVideoCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Video\\CreateVideo\\CreateVideoCommandHandler.cs",
+              "RelativeDocumentMoniker": "RDManipulacao.Application\\Video\\CreateVideo\\CreateVideoCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Video\\CreateVideo\\CreateVideoCommandHandler.cs",
+              "RelativeToolTip": "RDManipulacao.Application\\Video\\CreateVideo\\CreateVideoCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwBAAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T03:55:10.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateVideoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Video\\CreateVideo\\CreateVideoCommand.cs",
+              "RelativeDocumentMoniker": "RDManipulacao.Application\\Video\\CreateVideo\\CreateVideoCommand.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Video\\CreateVideo\\CreateVideoCommand.cs",
+              "RelativeToolTip": "RDManipulacao.Application\\Video\\CreateVideo\\CreateVideoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:46:20.248Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "UpdateVideoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Video\\UpdateVideo\\UpdateVideoCommand.cs",
+              "RelativeDocumentMoniker": "RDManipulacao.Application\\Video\\UpdateVideo\\UpdateVideoCommand.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Video\\UpdateVideo\\UpdateVideoCommand.cs",
+              "RelativeToolTip": "RDManipulacao.Application\\Video\\UpdateVideo\\UpdateVideoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T03:54:39.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DeleteVideoCommand.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Video\\DeleteVideo\\DeleteVideoCommand.cs",
+              "RelativeDocumentMoniker": "RDManipulacao.Application\\Video\\DeleteVideo\\DeleteVideoCommand.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Video\\DeleteVideo\\DeleteVideoCommand.cs",
+              "RelativeToolTip": "RDManipulacao.Application\\Video\\DeleteVideo\\DeleteVideoCommand.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T06:44:44.537Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GetFilteredVideosQuery.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Video\\GetVideo\\GetFilteredVideosQuery.cs",
+              "RelativeDocumentMoniker": "RDManipulacao.Application\\Video\\GetVideo\\GetFilteredVideosQuery.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Video\\GetVideo\\GetFilteredVideosQuery.cs",
+              "RelativeToolTip": "RDManipulacao.Application\\Video\\GetVideo\\GetFilteredVideosQuery.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T15:43:11.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "VideoRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Infrastructure\\Repositories\\VideoRepository.cs",
+              "RelativeDocumentMoniker": "RDManipulacao.Infrastructure\\Repositories\\VideoRepository.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Infrastructure\\Repositories\\VideoRepository.cs",
+              "RelativeToolTip": "RDManipulacao.Infrastructure\\Repositories\\VideoRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-04T20:52:48.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "GetFilteredVideosQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Video\\GetVideo\\GetFilteredVideosQueryHandler.cs",
+              "RelativeDocumentMoniker": "RDManipulacao.Application\\Video\\GetVideo\\GetFilteredVideosQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Video\\GetVideo\\GetFilteredVideosQueryHandler.cs",
+              "RelativeToolTip": "RDManipulacao.Application\\Video\\GetVideo\\GetFilteredVideosQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T14:57:12.102Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "GetVideoByIdQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Video\\GetVideo\\GetVideoByIdQueryHandler.cs",
+              "RelativeDocumentMoniker": "RDManipulacao.Application\\Video\\GetVideo\\GetVideoByIdQueryHandler.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Video\\GetVideo\\GetVideoByIdQueryHandler.cs",
+              "RelativeToolTip": "RDManipulacao.Application\\Video\\GetVideo\\GetVideoByIdQueryHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-06T13:48:39.567Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DeleteVideoCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Video\\DeleteVideo\\DeleteVideoCommandHandler.cs",
+              "RelativeDocumentMoniker": "RDManipulacao.Application\\Video\\DeleteVideo\\DeleteVideoCommandHandler.cs",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Video\\DeleteVideo\\DeleteVideoCommandHandler.cs",
+              "RelativeToolTip": "RDManipulacao.Application\\Video\\DeleteVideo\\DeleteVideoCommandHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-05T03:55:20.298Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "RDManipulacao.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Api\\appsettings.json",
+              "RelativeToolTip": "RDManipulacao.Api\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-05T03:30:29.757Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Sdk.targets",
               "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\Sdk\\Sdk.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\Sdk\\Sdk.targets",
@@ -125,261 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Sdk.props",
-              "DocumentMoniker": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\Sdk\\Sdk.props",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\Sdk\\Sdk.props",
-              "ToolTip": "C:\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\Sdk\\Sdk.props [Somente Leitura]",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\dotnet\\sdk\\9.0.100\\Sdks\\Microsoft.NET.Sdk\\Sdk\\Sdk.props [Somente Leitura]",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAQAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-03-05T05:40:21.633Z",
-              "EditorCaption": " [Somente Leitura]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "CreateVideoCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Handlers\\CreateVideoCommandHandler.cs",
-              "RelativeDocumentMoniker": "RDManipulacao.Application\\Handlers\\CreateVideoCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Handlers\\CreateVideoCommandHandler.cs",
-              "RelativeToolTip": "RDManipulacao.Application\\Handlers\\CreateVideoCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAyAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:55:10.141Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UpdateVideoCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Commands\\UpdateVideoCommand.cs",
-              "RelativeDocumentMoniker": "RDManipulacao.Application\\Commands\\UpdateVideoCommand.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Commands\\UpdateVideoCommand.cs",
-              "RelativeToolTip": "RDManipulacao.Application\\Commands\\UpdateVideoCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAACdAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:54:39.831Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "DeleteVideoCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Commands\\DeleteVideoCommand.cs",
-              "RelativeDocumentMoniker": "RDManipulacao.Application\\Commands\\DeleteVideoCommand.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Commands\\DeleteVideoCommand.cs",
-              "RelativeToolTip": "RDManipulacao.Application\\Commands\\DeleteVideoCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA+AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:54:45.867Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "CreateVideoCommand.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Commands\\CreateVideoCommand.cs",
-              "RelativeDocumentMoniker": "RDManipulacao.Application\\Commands\\CreateVideoCommand.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Commands\\CreateVideoCommand.cs",
-              "RelativeToolTip": "RDManipulacao.Application\\Commands\\CreateVideoCommand.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T20:46:20.248Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Api\\Program.cs",
-              "RelativeDocumentMoniker": "RDManipulacao.Api\\Program.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Api\\Program.cs",
-              "RelativeToolTip": "RDManipulacao.Api\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T15:46:01.595Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "VideoController.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Api\\Controllers\\VideoController.cs",
-              "RelativeDocumentMoniker": "RDManipulacao.Api\\Controllers\\VideoController.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Api\\Controllers\\VideoController.cs",
-              "RelativeToolTip": "RDManipulacao.Api\\Controllers\\VideoController.cs",
-              "ViewState": "AgIAAAcAAAAAAAAAAAAAACAAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T04:10:30.82Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "VideoDto.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\DTOs\\VideoDto.cs",
-              "RelativeDocumentMoniker": "RDManipulacao.Application\\DTOs\\VideoDto.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\DTOs\\VideoDto.cs",
-              "RelativeToolTip": "RDManipulacao.Application\\DTOs\\VideoDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T15:41:09.154Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "DeleteVideoCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Handlers\\DeleteVideoCommandHandler.cs",
-              "RelativeDocumentMoniker": "RDManipulacao.Application\\Handlers\\DeleteVideoCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Handlers\\DeleteVideoCommandHandler.cs",
-              "RelativeToolTip": "RDManipulacao.Application\\Handlers\\DeleteVideoCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:55:20.298Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "GetAllVideosQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Handlers\\GetAllVideosQueryHandler.cs",
-              "RelativeDocumentMoniker": "RDManipulacao.Application\\Handlers\\GetAllVideosQueryHandler.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Handlers\\GetAllVideosQueryHandler.cs",
-              "RelativeToolTip": "RDManipulacao.Application\\Handlers\\GetAllVideosQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:55:29.6Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "GetVideoByIdQueryHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Handlers\\GetVideoByIdQueryHandler.cs",
-              "RelativeDocumentMoniker": "RDManipulacao.Application\\Handlers\\GetVideoByIdQueryHandler.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Handlers\\GetVideoByIdQueryHandler.cs",
-              "RelativeToolTip": "RDManipulacao.Application\\Handlers\\GetVideoByIdQueryHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAcAAAA8AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:55:25.025Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "UpdateVideoCommandHandler.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Handlers\\UpdateVideoCommandHandler.cs",
-              "RelativeDocumentMoniker": "RDManipulacao.Application\\Handlers\\UpdateVideoCommandHandler.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Handlers\\UpdateVideoCommandHandler.cs",
-              "RelativeToolTip": "RDManipulacao.Application\\Handlers\\UpdateVideoCommandHandler.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:55:15.213Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "MappingProfile.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Mappings\\MappingProfile.cs",
-              "RelativeDocumentMoniker": "RDManipulacao.Application\\Mappings\\MappingProfile.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Mappings\\MappingProfile.cs",
-              "RelativeToolTip": "RDManipulacao.Application\\Mappings\\MappingProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:55:36.402Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "GetAllVideosQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Queries\\GetAllVideosQuery.cs",
-              "RelativeDocumentMoniker": "RDManipulacao.Application\\Queries\\GetAllVideosQuery.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Queries\\GetAllVideosQuery.cs",
-              "RelativeToolTip": "RDManipulacao.Application\\Queries\\GetAllVideosQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:55:00.717Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "GetVideoByIdQuery.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Queries\\GetVideoByIdQuery.cs",
-              "RelativeDocumentMoniker": "RDManipulacao.Application\\Queries\\GetVideoByIdQuery.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\Queries\\GetVideoByIdQuery.cs",
-              "RelativeToolTip": "RDManipulacao.Application\\Queries\\GetVideoByIdQuery.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-05T03:54:54.009Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "Video.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Domain\\Entities\\Video.cs",
-              "RelativeDocumentMoniker": "RDManipulacao.Domain\\Entities\\Video.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Domain\\Entities\\Video.cs",
-              "RelativeToolTip": "RDManipulacao.Domain\\Entities\\Video.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAkwBsAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T14:55:20.1Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "IVideoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Domain\\Interfaces\\IVideoRepository.cs",
-              "RelativeDocumentMoniker": "RDManipulacao.Domain\\Interfaces\\IVideoRepository.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Domain\\Interfaces\\IVideoRepository.cs",
-              "RelativeToolTip": "RDManipulacao.Domain\\Interfaces\\IVideoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T20:59:55.301Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ApplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "RelativeDocumentMoniker": "RDManipulacao.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "RelativeToolTip": "RDManipulacao.Infrastructure\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-03T15:43:31.684Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "VideoRepository.cs",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Infrastructure\\Repositories\\VideoRepository.cs",
-              "RelativeDocumentMoniker": "RDManipulacao.Infrastructure\\Repositories\\VideoRepository.cs",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Infrastructure\\Repositories\\VideoRepository.cs",
-              "RelativeToolTip": "RDManipulacao.Infrastructure\\Repositories\\VideoRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-04T20:52:48.496Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "RDManipulacao.Application.csproj",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\RDManipulacao.Application.csproj",
-              "RelativeDocumentMoniker": "RDManipulacao.Application\\RDManipulacao.Application.csproj",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Application\\RDManipulacao.Application.csproj",
-              "RelativeToolTip": "RDManipulacao.Application\\RDManipulacao.Application.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-05T03:53:57.294Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 21,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Api\\appsettings.json",
-              "RelativeDocumentMoniker": "RDManipulacao.Api\\appsettings.json",
-              "ToolTip": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Api\\appsettings.json",
-              "RelativeToolTip": "RDManipulacao.Api\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-05T03:30:29.757Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 22,
               "Title": "RDManipulacao.Infrastructure.csproj",
               "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Infrastructure\\RDManipulacao.Infrastructure.csproj",
               "RelativeDocumentMoniker": "RDManipulacao.Infrastructure\\RDManipulacao.Infrastructure.csproj",
@@ -387,11 +393,12 @@
               "RelativeToolTip": "RDManipulacao.Infrastructure\\RDManipulacao.Infrastructure.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-04T20:24:30.68Z"
+              "WhenOpened": "2025-03-04T20:24:30.68Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 22,
               "Title": "RDManipulacao.Domain.csproj",
               "DocumentMoniker": "C:\\Users\\Raffaell Negreiros G\\source\\repos\\RDManipulacao\\RDManipulacao.Domain\\RDManipulacao.Domain.csproj",
               "RelativeDocumentMoniker": "RDManipulacao.Domain\\RDManipulacao.Domain.csproj",
@@ -399,7 +406,8 @@
               "RelativeToolTip": "RDManipulacao.Domain\\RDManipulacao.Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-03-03T14:55:04.326Z"
+              "WhenOpened": "2025-03-03T14:55:04.326Z",
+              "EditorCaption": ""
             }
           ]
         }
