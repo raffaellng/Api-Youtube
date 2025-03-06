@@ -11,8 +11,8 @@ using RDManipulacao.Infrastructure.Data;
 namespace RDManipulacao.Infrastructure.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20250305204511_Update")]
-    partial class Update
+    [Migration("20250306180500_InitialCreate")]
+    partial class InitialCreate
     {
         /// <inheritdoc />
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
