@@ -1,11 +1,9 @@
 ﻿using MediatR;
-using RDManipulacao.Application.Queries;
-using RDManipulacao.Domain.Entities;
 using RDManipulacao.Domain.Interfaces;
 
-namespace RDManipulacao.Application.Handlers
+namespace RDManipulacao.Application.Video.GetVideo
 {
-    public class GetFilteredVideosQueryHandler : IRequestHandler<GetFilteredVideosQuery, IEnumerable<Video>>
+    public class GetFilteredVideosQueryHandler : IRequestHandler<GetFilteredVideosQuery, IEnumerable<Domain.Entities.Video>>
     {
         private readonly IVideoRepository _videoRepository;
 
@@ -13,7 +11,7 @@ namespace RDManipulacao.Application.Handlers
         {
             _videoRepository = videoRepository;
         }
-        public async Task<IEnumerable<Video>> Handle(GetFilteredVideosQuery request, CancellationToken cancellationToken)
+        public async Task<IEnumerable<Domain.Entities.Video>> Handle(GetFilteredVideosQuery request, CancellationToken cancellationToken)
         {
             var videos = await _videoRepository.GetAllAsync();
 

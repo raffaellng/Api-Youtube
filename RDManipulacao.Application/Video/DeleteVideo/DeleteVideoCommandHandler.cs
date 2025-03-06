@@ -1,8 +1,7 @@
 ﻿using MediatR;
-using RDManipulacao.Application.Commands;
 using RDManipulacao.Domain.Interfaces;
 
-namespace RDManipulacao.Application.Handlers
+namespace RDManipulacao.Application.Video.DeleteVideo
 {
     public class DeleteVideoCommandHandler : IRequestHandler<DeleteVideoCommand, bool>
     {

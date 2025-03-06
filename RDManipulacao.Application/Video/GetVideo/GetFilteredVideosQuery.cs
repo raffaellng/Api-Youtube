@@ -1,9 +1,8 @@
 ﻿using MediatR;
-using RDManipulacao.Domain.Entities;
 
-namespace RDManipulacao.Application.Queries
+namespace RDManipulacao.Application.Video.GetVideo
 {
-    public class GetFilteredVideosQuery : IRequest<IEnumerable<Video>>
+    public class GetFilteredVideosQuery : IRequest<IEnumerable<Domain.Entities.Video>>
     {
         public string? Titulo { get; set; }
         public string? Duracao { get; set; }

@@ -1,7 +1,10 @@
 ﻿using MediatR;
 using Microsoft.AspNetCore.Mvc;
-using RDManipulacao.Application.Commands;
-using RDManipulacao.Application.Queries;
+using RDManipulacao.Application.Service.InsertVideos;
+using RDManipulacao.Application.Video.CreateVideo;
+using RDManipulacao.Application.Video.DeleteVideo;
+using RDManipulacao.Application.Video.GetVideo;
+using RDManipulacao.Application.Video.UpdateVideo;
 
 namespace RDManipulacao.Api.Controllers
 {
@@ -80,22 +83,5 @@ namespace RDManipulacao.Api.Controllers
             
             return NoContent();
         }
-
-        //[HttpGet("{id}")]
-        //public async Task<IActionResult> GetById(int id)
-        //{
-        //    var video = await _mediator.Send(new GetVideoByIdQuery(id));
-        //    if (video == null)
-        //        return NotFound();
-
-        //    return Ok(video);
-        //}
-
-        //[HttpGet]
-        //public async Task<IActionResult> GetAll()
-        //{
-        //    var videos = await _mediator.Send(new GetAllVideosQuery());
-        //    return Ok(videos);
-        //}
     }
 }

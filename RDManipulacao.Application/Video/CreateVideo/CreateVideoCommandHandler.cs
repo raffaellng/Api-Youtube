@@ -1,9 +1,7 @@
 ﻿using MediatR;
-using RDManipulacao.Application.Commands;
-using RDManipulacao.Domain.Entities;
 using RDManipulacao.Infrastructure.Data;
 
-namespace RDManipulacao.Application.Handlers
+namespace RDManipulacao.Application.Video.CreateVideo
 {
     public class CreateVideoCommandHandler : IRequestHandler<CreateVideoCommand, int>
     {
@@ -16,15 +14,7 @@ namespace RDManipulacao.Application.Handlers
 
         public async Task<int> Handle(CreateVideoCommand request, CancellationToken cancellationToken)
         {
-            var video = new Video
-            {
-                Title = request.Titulo,
-                Description = request.Descricao,
-                ChannelName = request.Autor,
-                Duration = request.Duracao,
-                PublishedAt = request.DataPublicacao,
-                IsDeleted = false
-            };
+            var video = new Domain.Entities.Video(request.Titulo, request.Descricao, request.Autor, request.Duracao, request.DataPublicacao);
 
             _context.Videos.Add(video);
             await _context.SaveChangesAsync(cancellationToken);
