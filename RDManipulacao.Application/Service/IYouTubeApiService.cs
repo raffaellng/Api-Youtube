@@ -1,6 +1,4 @@
-﻿using RDManipulacao.Domain.Entities;
-
-namespace RDManipulacao.Application.Service
+﻿namespace RDManipulacao.Application.Service
 {
     public interface IYouTubeApiService
     {
